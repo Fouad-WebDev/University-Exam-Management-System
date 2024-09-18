@@ -462,7 +462,4 @@ public class InterfaceResultat extends JFrame  {
    		ExamenCMB.setModel(ExamenCMBMDL);
    		ExamenDetailCMB.setModel(ExamenDetailCMBMDL);
    	}
-public static void main(String[]args) {
-
-}
 }
